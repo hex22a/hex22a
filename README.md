@@ -27,6 +27,8 @@ https://github.com/crftd/postcss-glitch - PostCSS plugin that adds glitch effect
 
 https://github.com/hex22a/techwear-shop-nextjs - e-commerce app on Next.JS w/ WebAuthn support. This project includes CI/CD pipelines with various automated testing scenarios
 
+https://github.com/hex22a/techwear-shop-sveltekit - same e-commerce app on but ported to SvelteKit
+
 https://github.com/hex22a/sec-vpc - secure personal virtial private cloud
 
 https://github.com/hex22a/s3archiver - cross-account S3 archive manager
