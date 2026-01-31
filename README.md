@@ -1,6 +1,6 @@
 ## Albert Fazullin - Fullstack developer
 
-[hex22a+github@gmail.com]('mailto:hex22a+github@gmail.com') | [LinkedIn: https://www.linkedin.com/in/crashbash]('https://www.linkedin.com/in/crashbash')
+[hex22a+github@gmail.com](mailto:hex22a+github@gmail.com) | [LinkedIn: https://www.linkedin.com/in/crashbash](https://www.linkedin.com/in/crashbash)
 
 Fullstack Software Developer with over 10 years of experience in crafting scalable, secure,
 and maintainable software solutions. Strong expertise in modern web technologies (TypeScript, Node.js, React) and best practices like Test-Driven Development (TDD) and
