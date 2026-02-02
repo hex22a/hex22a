@@ -22,7 +22,7 @@ Front-end Tools: PostCSS, TailwindCSS, CSS-in-JS.
 
 ### My projects
 
-https://github.com/crftd/postcss-glitch - PostCSS plugin that adds glitch effect
+https://github.com/hex22a/postcss-glitch - PostCSS plugin that adds a glitch effect
 
 https://github.com/hex22a/cidit - CIDR Ispection Tool written in Rust w/ automated deployment to [brew tap](github.com/hex22a/homebrew-cidit) and [GitHub Releases](https://github.com/hex22a/cidit/releases) (GitHub Actions)
 
