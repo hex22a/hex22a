@@ -18,7 +18,7 @@ back-end architecture.
 * Security Expertise: OWASP standards for secure development, vulnerability
 assessment, HIPAA compliance (healthcare systems).
 * Development Tools: Docker, Git, Jenkins, CI/CD pipelines, Webpack.
-Front-end Tools: PostCSS, TailwindCSS, CSS-in-JS.
+* Front-end Tools: PostCSS, TailwindCSS, CSS-in-JS.
 
 ### My projects
 
