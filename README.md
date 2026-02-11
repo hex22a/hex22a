@@ -24,7 +24,7 @@ assessment, HIPAA compliance (healthcare systems).
 
 https://github.com/hex22a/postcss-glitch - PostCSS plugin that adds a glitch effect
 
-https://github.com/hex22a/cidit - CIDR Inspection Tool written in Rust w/ automated deployment to [brew tap](github.com/hex22a/homebrew-cidit) and [GitHub Releases](https://github.com/hex22a/cidit/releases) (GitHub Actions)
+https://github.com/hex22a/cidit - CIDR Inspection Tool written in Rust w/ automated deployment to [brew tap](https://github.com/hex22a/homebrew-cidit) and [GitHub Releases](https://github.com/hex22a/cidit/releases) (GitHub Actions)
 
 https://github.com/hex22a/techwear-shop-nextjs - e-commerce app on Next.JS w/ WebAuthn support. This project includes CI/CD pipelines with various automated testing scenarios
 
