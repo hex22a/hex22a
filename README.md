@@ -26,6 +26,8 @@ https://github.com/hex22a/postcss-glitch - PostCSS plugin that adds a glitch eff
 
 https://github.com/hex22a/cidit - CIDR Inspection Tool written in Rust w/ automated deployment to [brew tap](https://github.com/hex22a/homebrew-cidit) and [GitHub Releases](https://github.com/hex22a/cidit/releases) (GitHub Actions)
 
+https://github.com/hex22a/reconductor - Network scanner. Backend: Bun, TypeScript, PostgreSQL, RabbitMQ. Frontend: React SPA with React Router, Workers: Rust
+
 https://github.com/hex22a/techwear-shop-nextjs - e-commerce app on Next.JS w/ WebAuthn support. This project includes CI/CD pipelines with various automated testing scenarios
 
 https://github.com/hex22a/techwear-shop-sveltekit - same e-commerce app on but ported to SvelteKit
