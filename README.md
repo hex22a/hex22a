@@ -1,4 +1,4 @@
-## Albert Fazullin - Software engineer - Rust | Typescript | Java | Python
+# Albert Fazullin - Software Engineer
 
 [hex22a+github@gmail.com](mailto:hex22a+github@gmail.com) | [LinkedIn: https://www.linkedin.com/in/crashbash](https://www.linkedin.com/in/crashbash)
 
