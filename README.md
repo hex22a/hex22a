@@ -1,4 +1,4 @@
-# Albert Fazullin - Software engineer - Rust | Typescript | Java | Python
+## Albert Fazullin - Software engineer - Rust | Typescript | Java | Python
 
 [hex22a+github@gmail.com](mailto:hex22a+github@gmail.com) | [LinkedIn: https://www.linkedin.com/in/crashbash](https://www.linkedin.com/in/crashbash)
 
@@ -15,6 +15,7 @@ projects.
 ![](https://github.com/hex22a/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/hex22a/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/hex22a/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+
 [Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
 
 * Testing: Test-Driven Development (TDD), automated testing frameworks (unit,
