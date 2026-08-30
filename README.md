@@ -1,16 +1,22 @@
-## Albert Fazullin - Fullstack developer
+# Albert Fazullin - Software engineer - Rust | Typescript | Java | Python
 
 [hex22a+github@gmail.com](mailto:hex22a+github@gmail.com) | [LinkedIn: https://www.linkedin.com/in/crashbash](https://www.linkedin.com/in/crashbash)
 
-Fullstack Software Developer with over 8 years of experience in crafting scalable, secure,
+Software Engineer with over 8 years of experience in crafting scalable, secure,
 and maintainable software solutions. Strong expertise in modern web technologies (TypeScript, Node.js, React) and best practices like Test-Driven Development (TDD) and
 automated testing to deliver high-quality applications. Experienced in building secure,
 optimized systems by adhering to OWASP and privacy regulations (HIPAA). Skilled in both
 back-end and front-end development, delivering reliable and maintainable code for complex
 projects.
 
-### Technical Skills
-* Programming Languages & Frameworks: JavaScript, TypeScript, React, Python, Java (Servlets), Node.js.
+## Technical Skills
+
+![](https://github.com/hex22a/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/hex22a/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/hex22a/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/hex22a/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+
 * Testing: Test-Driven Development (TDD), automated testing frameworks (unit,
 integration, end-to-end).
 * Software Development: Secure coding practices, RESTful API design, scalable
@@ -20,13 +26,13 @@ assessment, HIPAA compliance (healthcare systems).
 * Development Tools: Docker, Git, Jenkins, CI/CD pipelines, Webpack.
 * Front-end Tools: PostCSS, TailwindCSS, CSS-in-JS.
 
-### My projects
+## My projects
 
 https://github.com/hex22a/postcss-glitch - PostCSS plugin that adds a glitch effect
 
 https://github.com/hex22a/cidit - CIDR Inspection Tool written in Rust w/ automated deployment to [brew tap](https://github.com/hex22a/homebrew-cidit) and [GitHub Releases](https://github.com/hex22a/cidit/releases) (GitHub Actions)
 
-https://github.com/hex22a/reconductor - Network scanner. Backend: Bun, TypeScript, PostgreSQL, RabbitMQ. Frontend: React SPA with React Router, Workers: Rust
+https://github.com/hex22a/reconductor - Network scanner. Backend: Rust, Redis, PostgreSQL, RabbitMQ. Frontend: SvelteKit SPA, Workers: Rust
 
 https://github.com/hex22a/techwear-shop-nextjs - e-commerce app on Next.JS w/ WebAuthn support. This project includes CI/CD pipelines with various automated testing scenarios
 
