@@ -9,14 +9,14 @@ optimized systems by adhering to OWASP and privacy regulations (HIPAA). Skilled 
 back-end and front-end development, delivering reliable and maintainable code for complex
 projects.
 
-## Technical Skills
-
 ![](https://github.com/hex22a/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/hex22a/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/hex22a/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/hex22a/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
 [Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+
+## Technical Skills
 
 * Testing: Test-Driven Development (TDD), automated testing frameworks (unit,
 integration, end-to-end).
@@ -29,11 +29,12 @@ assessment, HIPAA compliance (healthcare systems).
 
 ## My projects
 
-https://github.com/hex22a/postcss-glitch - PostCSS plugin that adds a glitch effect
+https://github.com/hex22a/postcss-glitch - PostCSS plugin that adds a glitch effect. Supports SVG
 
-https://github.com/hex22a/cidit - CIDR Inspection Tool written in Rust w/ automated deployment to [brew tap](https://github.com/hex22a/homebrew-cidit) and [GitHub Releases](https://github.com/hex22a/cidit/releases) (GitHub Actions)
+https://github.com/hex22a/cidit - CIDR Inspection Tool written in Rust w/
+automated deployment to [brew tap](https://github.com/hex22a/homebrew-cidit) and [GitHub Releases](https://github.com/hex22a/cidit/releases) (GitHub Actions)
 
-https://github.com/hex22a/reconductor - Network scanner. Backend: Rust, Redis, PostgreSQL, RabbitMQ. Frontend: SvelteKit SPA, Workers: Rust
+https://github.com/hex22a/reconductor - Network scanner. Backend: Rust (Axum), ~Redis~ Valkey, PostgreSQL, RabbitMQ. Frontend: ~React~ SvelteKit SPA, Workers: Rust
 
 https://github.com/hex22a/techwear-shop-nextjs - e-commerce app on Next.JS w/ WebAuthn support. This project includes CI/CD pipelines with various automated testing scenarios
 
